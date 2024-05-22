@@ -1,0 +1,4 @@
+Hatırlatma,
+Çalışma,
+Pekiştirme
+...
