@@ -1,1 +1,2 @@
-Hatırlatma
+*****    HATIRLATMA    *****
+*****    EVOCATION     *****
