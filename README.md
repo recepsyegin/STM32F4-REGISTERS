@@ -1,2 +1,1 @@
-*****    HATIRLATMA    *****
-*****    EVOCATION     *****
+Evocation for myself
